@@ -19,6 +19,9 @@
     <string name="data_changed">的数据变化：</string>
     <string name="read">读</string>
     <string name="write">写</string>
+    <string name="write_no_response">写无响应</string>
+    <string name="notify">通知</string>
+    <string name="indicate">指示</string>
     <string name="open_notification">打开通知</string>
     <string name="close_notification">关闭通知</string>
     <string name="service_list">服务列表</string>
